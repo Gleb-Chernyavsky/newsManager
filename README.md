@@ -1,3 +1,2 @@
 # newsManager
-Djkcmvzjkcnvdjkcz dmkvczndmf cmzkvd nczmcvn dz,cvn ckzvmd 
-vdnjs
+Web application witch give you opportunity create, read, update and delete news from table. Also you can match news as published or you can search news by title, you can sort news in table by creation date in ascending or descending order. For this project uses technologies like Spring Boot, Maven, PostgreSQL as database and Intellij IDEA as IDE. This application can help managers of newspaper or people that blogs don't forget publish some news, or they can just analyze his work.
